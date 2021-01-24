@@ -1,0 +1,8 @@
+{
+  "MQTT_BROKER": "broker.hivemq.com",
+  "MQTT_PORT": 1883,
+  "DEFAULT_LOG_MODE": "1",
+  "LOG_MODE_TOPIC": "logging/mode",
+  "ROBOT_INFO_TOPIC": "robot/info",
+  "ROBOT_MOVEMENT_TOPIC": "robot/movement"
+}
